@@ -1,0 +1,13 @@
+section,element,fontSize,color,url
+1heroText,,30px,#636363
+2forManyWonem,,45px,#4a4a4a
+3treatmentTitle,,45px,#4a4a4a
+4teatmentContent,,22px,#2b2d2f
+5treatmentImg,,22px,#636363
+6treatmentList,,22px,#2b2d2f
+7prodHistoryTitle,45px,#737373
+8prodHistoryTxt,,22px,#4a4a4a
+9prodHistoryYear,,22px,#4a4a4a
+10commitResearchTitle,60px,#737373
+10commitResearchTxt,22px,#4a4a4a
+12RelatedLink,14px,##4a90e2
