@@ -1,0 +1,9 @@
+section,element,fontSize
+1head,//*[@id="one-all-offices"]/main/div[1]/div/div[1]/div/div/div/h3,32px
+2subhead,//*[@id="one-all-offices"]/main/div[1]/div/div[1]/div/div/div/p,14px
+3region,//*[@id="one-all-offices"]/main/div[2]/ul/li[1]/h3,16px
+4regionhead,//*[@id="one-all-offices"]/main/div[2]/ul/li[3]/div/div/div/h2[1],16px
+5regioncontent,//*[@id="one-all-offices"]/main/div[2]/ul/li[3]/div/div/div/p[1],14px
+6country,//*[@id="one-all-offices"]/main/div[2]/ul/li[3]/div/div/ul/li/a,14px
+7countryhead,//*[@id="one-all-offices"]/main/div[2]/ul/li[3]/div/div/ul/li/div/div[2]/div/div/div/h4,16px
+8countrycontent,//*[@id="one-all-offices"]/main/div[2]/ul/li[3]/div/div/ul/li/div/div[2]/div/div/div/p[1],14px
