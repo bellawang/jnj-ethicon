@@ -57,7 +57,6 @@ class Font(unittest.TestCase):
     @staticmethod
     def get_func(arg):
         def func(self):
-            print("2")
             self.check_font(arg)
         return func
 

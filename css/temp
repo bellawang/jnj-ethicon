@@ -1,0 +1,16 @@
+
+3heroTextSmall,/html/body/div/div/div/section/div/article/div/div[1]/div/div[2]/div/div[2],14px,#2b2d2f,http://pelvic.dev.ciandt.cn
+4factTitle,/html/body/div/div/div/section/div/article/div/div[2]/section/h1,40px,#4a4a4a,http://pelvic.dev.ciandt.cn
+5factText1,/html/body/div/div/div/section/div/article/div/div[2]/section/div[1]/p,18px,#2b2d2f,http://pelvic.dev.ciandt.cn
+6fiftyPer,/html/body/div/div/div/section/div/article/div/div[2]/section/div[2]/div[1]/div/div[2],90px,#,http://pelvic.dev.ciandt.cn
+7approximately,/html/body/div/div/div/section/div/article/div/div[2]/section/div[2]/div[1]/div/div[1],16px,#626262,http://pelvic.dev.ciandt.cn
+8in,/html/body/div/div/div/section/div/article/div/div[2]/section/div[2]/div[2]/div/div[2],18px,#4a4a4a,http://pelvic.dev.ciandt.cn
+9oneTen,/html/body/div/div/div/section/div/article/div/div[2]/section/div[2]/div[2]/div/div[3],80px,#626262,http://pelvic.dev.ciandt.cn
+10thirFourty,/html/body/div/div/div/section/div/article/div/div[2]/section/div[2]/div[3]/div/div[1],80px,#626262,http://pelvic.dev.ciandt.cn
+11under50,/html/body/div/div/div/section/div/article/div/div[2]/section/div[2]/div[1]/p,14px,#4a4a4a,http://pelvic.dev.ciandt.cn
+12factText2,/html/body/div/div/div/section/div/article/div/div[2]/section/div[3]/p,22px,#4a4a4a,http://pelvic.dev.ciandt.cn
+13bottomTitle,/html/body/div/div/div/section/div/article/div/div[3]/div/div[2]/div[1]/div/h2,40px,#000000,http://pelvic.dev.ciandt.cn
+14bottomContent,/html/body/div/div/div/section/div/article/div/div[3]/div/div[2]/div[1]/div/p[1],18px,#000000,http://pelvic.dev.ciandt.cn
+15Ref,/html/body/div/div/div/section/div/article/div/div[4]/ul/li[1],12px,#4a4a4a,http://pelvic.dev.ciandt.cn
+17footerMenu,//*[@id="block-footer"]/ul/li[1]/a,12px,#000000,http://pelvic.dev.ciandt.cn
+18footerInfo,//*[@id="block-pmcopyright"]/div/p,11px,#000000,http://pelvic.dev.ciandt.cn
