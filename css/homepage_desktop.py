@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 from selenium import webdriver
 from time import sleep
-import requests
+# import requests
 import unittest
 import time
 import re
 import HTMLTestRunner
 import csv
 from configparser import ConfigParser
-import toHexadecimal
-from common import allcas
+from common import toHexadecimal
+from common import allcase
 
 cf = ConfigParser()
 cf.read("../config/css.conf")
